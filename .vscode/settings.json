@@ -1,0 +1,32 @@
+{
+  "workbench.colorTheme": "GitHub Dark",
+  "editor.fontFamily": "JetBrainsMono Nerd Font Mono",
+  "editor.suggestLineHeight": 30,
+  "editor.cursorBlinking": "expand",
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.guides.bracketPairs": true,
+  "editor.wordWrap": "on",
+  "workbench.iconTheme": "material-icon-theme",
+
+  "editor.lineHeight": 30,
+
+  "[typescript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "workbench.layoutControl.enabled": false,
+  "workbench.editor.enablePreview": false,
+  "files.associations": {
+    "*.blade.php": "html",
+    "*.tpl": "html"
+  },
+  "editor.tabSize": 2,
+  "editor.tabCompletion": "on",
+  "swaggerViewer.previewInBrowser": true,
+  "editor.detectIndentation": true,
+
+  "editor.fontSize": 15,
+  "material-icon-theme.hidesExplorerArrows": false
+}
