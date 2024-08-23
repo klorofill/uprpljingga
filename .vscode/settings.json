@@ -7,9 +7,7 @@
   "editor.guides.bracketPairs": true,
   "editor.wordWrap": "on",
   "workbench.iconTheme": "material-icon-theme",
-
   "editor.lineHeight": 30,
-
   "[typescript]": {
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true
@@ -26,7 +24,6 @@
   "editor.tabCompletion": "on",
   "swaggerViewer.previewInBrowser": true,
   "editor.detectIndentation": true,
-
   "editor.fontSize": 15,
   "material-icon-theme.hidesExplorerArrows": false
 }
